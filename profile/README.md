@@ -10,7 +10,7 @@ As builders, he calls us to build.
 
 ClashLight is a collective of Bible believing AI builders. We equip faith based organizations with technology to scale their impact. We are **mercenary technologists** furthering God's work in the world. 
 
-Put simply, we weaponize AI technology against darkness: 
+### Put simply, we weaponize AI technology against darkness: 
 
 > *“Take no part in the unfruitful works of darkness, but instead expose them.”*  - Ephesians 5:11
 
