@@ -1,6 +1,16 @@
 # ClashLight - Collective of Bible Based AI Builders
 
-We stand as **mercenary technologists for God**—equipping Biblical organizations with AI.
+On September 10, 2025, **Charlie Kirk was assassinated** while creating space for debate and discussion.  
+
+Charlie Kirk was just a man, imperfect in ways. But he preached God's word. His killing, and the celebration and condoning after by so many, was an awakening for those that follow God - darkness is winning the world, and we must do better.
+
+God blesses all of his children with gifts - and he expects us to use them (~ Romans 12:6-8). 
+
+As builders, he calls us to build. 
+
+ClashLight is a collective of Bible believing AI builders. We equip faith based organizations with technology to scale their impact. We are **mercenary technologists** furthering God's work in the world. 
+
+Put simply, we weaponize AI technology against darkness: 
 
 > *“Take no part in the unfruitful works of darkness, but instead expose them.”*  - Ephesians 5:11
 
@@ -13,7 +23,7 @@ We are NOT an agency or consultancy.
 
 We are a collective of technology builders who equip and expand Bible based organizations with AI. 
 
-- **AI Systems for God**  
+- **AI for Biblical Groups**  
   We design and deploy AI technology to scale reach, influence, and impact. 
 
 - **Shared Source Community**  
@@ -23,16 +33,6 @@ We are a collective of technology builders who equip and expand Bible based orga
   We can often create impact in hours, with precise aim of our skills at problems we were are made aware of. 
 
 The result of our work is AI technology amplifying and accelerating the movement of Bible based organizations in the world. 
-
----
-
-## 🌍 The Impetus
-On September 10, 2025, **Charlie Kirk was assassinated** while creating space for debate and discussion.  
-
-He warned:  
-> “When people stop talking, that’s when you get violence. You think the other side is so evil, they lose their humanity. That's how civil war starts!"
-
-Charlie Kirk was a man, imperfect in many ways. But his killing was a moment of awakening for those that follow God - darkness is winning, and we must do better. 
 
 ---
 
