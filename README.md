@@ -1,2 +1,4 @@
 # .github
-ClashLight Collective is a network of Bible based AI builders. In the wake of Charlie Kirk's assassination, we are mercenary technologists that stand with Biblical organizations battling darkness in the world. 
+ClashLight Collective is a network of Bible based AI builders. In the wake of Charlie Kirk's assassination, we are mercenary technologists that stand with Biblical organizations battling darkness in the world.
+
+For more information about Clash Light and its mission, see [/profile/README.md](/profile/README.md). 
