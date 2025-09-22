@@ -2,88 +2,97 @@
 
 On September 10, 2025, **Charlie Kirk was assassinated** while creating space for debate and discussion.  
 
-Charlie Kirk was just a man, imperfect in ways. But he preached God's word. His killing, and the celebration and condoning after by so many, was an awakening for those that follow God - darkness is winning the world, and we must do better.
+Charlie was a man, imperfect in ways. But he preached God's word. 
 
-God blesses all of his children with gifts - and he expects us to use them (~ Romans 12:6-8). 
+His death, and the approving and even celebratory responses that followed, were an awakening for all that know God... even if only from a distance.
 
-As builders, he calls us to build. 
+**This moment reminds us that Evil is real. And it has a strong foothold to advance from.**
 
-ClashLight is a collective of Bible believing AI builders. We equip faith based organizations with technology to scale their impact. We are **mercenary technologists** furthering God's work in the world. 
+## What Does God Expect of Us, As Technology Builders?
 
-### Put simply, we weaponize AI technology against darkness: 
+God calls on those who know Him to stand against the schemes of the devil (~ Ephesians 6:11). 
 
-> *“Take no part in the unfruitful works of darkness, but instead expose them.”*  - Ephesians 5:11
+- He blesses each of us with unique gifts. 
+- He expects us to use our gifts to help all find him. 
+- (~ Romans 12:6-8, ~  Ephesians 4:11-13).
 
-> *“The light shines in the darkness, and the darkness has not overcome it.”*  - John 1:5
+As Builders of technology, we are blessed with the gift of leverage. We scale effort and can impact millions. 
 
----
+This has always been true of technology, but do you see what is happening NOW?
 
-## ⚡ What We Do
-We are NOT an agency or consultancy. 
+- The use of AI increased exponentially the leverage we already had as builders. 
+- AI has also lowered the barrier to building, which mulitplies the number of builders. 
 
-We are a collective of technology builders who equip and expand Bible based organizations with AI. 
-
-- **AI for Biblical Groups**  
-  We design and deploy AI technology to scale reach, influence, and impact. 
-
-- **Shared Source Community**  
-  Within the collective, ALL projects shared source so our impact is exponential. 
-
-- **Impactful, But Often SIMPLE**  
-  We can often create impact in hours, with precise aim of our skills at problems we were are made aware of. 
-
-The result of our work is AI technology amplifying and accelerating the movement of Bible based organizations in the world. 
+God works in mysterious ways. AI's advancement, especially in the year leading up to Charlie Kirk's assassination, may not be a coincidence. 
 
 ---
 
-## 🛡️ Our Ethos
-We don’t just shine our light — **we CLASH with darkness**.
+## What is ClashLight?
 
-> “Take no part in the unfruitful works of darkness, but instead expose them.” (Eph. 5:11)
+ClashLight is a collective of Bible Based AI builders. 
 
-We strive to be **brave and combative- but also redemptive**. 
+We equip Bible believing organizations with technology, as an armor of God and a weapon against evil. Our intent is to support their stand against the schemes of the devil in the world. (~ Ephesians 6:11).
 
-We attack darkness, not the people overcome by it. 
+We use technology to bring the clash of light to darkness. 
+
+> *"The light shines in the darkness, and the darkness has not overcome it."*  - John 1:5
+
+We are NOT an agency or consultancy. We are a collective: 
+
+- **AI Technology Implementation** - We design and deploy technology to strengthen reach, deepen impact, and advance kingdom work. 
+
+- **Shared Source Community** - Within the collective, ALL projects are "shared source" to accelerate our impact over time. 
+
+- **Sometimes Simple** - Trivial solutions can have massive impact. We seek awareness of any and all problems to solve. 
+
+The result is the strenghening and acceleration of organizations sharing God's work in the world. 
 
 ---
 
-## 🧩 How We’re Structured
+## 🛡️ Our Operating Principles 
+- We don't just share God's light — we equip others to clash with light and stand firm against evil.
+- But we do not take revenge. God's role is clear: "it is mine to avenge, I will repay" (Romans 12:19).
+
+We provide armor for the clash against evil, but leave God's work to God. 
+
+---
+
+## 🧩 How We're Structured
 - **Core Team**  
-  A small group coordinates projects, vets members, and support the growth of the collective. 
+  A small group coordinates projects, vets members, and supports the growth of the collective. 
 
 - **The Collective**  
-  A distributed network of engineers, product builders, designers, and PMs—hand-picked for both technical skill and Biblical conviction. Think of us as **missionaries with AI skills**— or mercenaries against darkness.
+  A network of technology builders - chosen for both technical skill and Biblical conviction. 
 
 - **Partner Organizations**  
-  Ministries, Biblical institutions, Christian schools, non-profits, and companies that need would be more impactful with AI solutions. 
+  Biblical institutions and organizations that seek to be more effective in kingdom work. 
 
 ---
 
 ## 💰 Financial Model
-1. We scope projects with partner orgs.  
-2. Collective members are assigned contractor-style, paid per project.  
-3. ClashLight receives a margin for to help coordinate the project, and drive the mission. 
+1. We scope projects with partner organizations.
+2. Collective members are assigned contractor-style for paid work. 
+3. ClashLight receives a margin to help coordinate projects and drive the mission. 
 
-This creates a **flexible, sustainable talent engine** for kingdom-impacting AI.
+This creates a **flexible, sustainable talent engine** for kingdom-impacting work. 
 
-> We are seeking alternative financial models to maximize impact for all organziations, regardless of budget. Contribute ideas.
+> We are seeking alternative financial models to maximize our impact for all. Contribute ideas!
 
 ---
 
 ## 📍 Why GitHub?
-Our model maps perfectly onto open source community structures:
-- Repos = individual projects (public & private)  
-- Issues & PRs = task management and workflow  
-- Discussions & Wikis = community, culture, and collaboration  
+Our model maps well on to the GitHub ecosystem and Open Source mindset: 
+- We will use repos as individual projects, both public and private. 
+- You can contribute to individual projects, or build the community at large. 
+- We'll leverage Issues, PRs, and Prayersource to define our path. 
 
-We’re modeling this off of open source movements, because we see MANY that want to contribute and collaborate. 
+Github is our gathering place as Builders.
 
 ---
 
 ## 🚀 Get Involved
-- **Builders:** Join the collective. Bring your AI/engineering skills to projects that impact the world. 
-- **Organizations:** Partner with us to accelerate your mission with AI.  
-- **Supporters:** Share, star, and contribute to the community.
+- **Builders** - Join the collective by contributing ideas and your expertise on projects.
+- **Organizations** - Bring us your burdens and let us create solutions with technology.
+- **Supporters** - Support us through sharing the community, or contributing resources.
 
-❓ This community was published on 9/19/2025 and will be updated with more information shortly. Contact the organizers thru https://x.com/ClashLightHQ in the meantime. 
-
+❓ This community was published on 9/19/2025 and will be updated with more information over time. Contact the organizers thru https://x.com/ClashLightHQ in the meantime. 
