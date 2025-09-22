@@ -95,4 +95,4 @@ Github is our gathering place as Builders.
 - **Organizations** - Bring us your burdens and let us create solutions with technology.
 - **Supporters** - Support us through sharing the community, or contributing resources.
 
-❓ This community was published on 9/19/2025 and will be updated with more information over time. Contact the organizers thru https://x.com/ClashLightHQ in the meantime. 
+❓ This community was published on 9/19/2025 and will be updated with more information over time. Contact the organizers thru https://x.com/ClashLightHQ in the meantime and follow repo https://github.com/clashlight/.github to collaborate. 
