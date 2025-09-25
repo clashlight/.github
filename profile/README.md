@@ -6,7 +6,7 @@ Charlie was a man, imperfect in ways. But he preached God's word.
 
 His death, and the approving and even celebratory responses that followed, were an awakening for all that know God... even if only from a distance.
 
-**This moment reminds us that Evil is real. And it has a strong foothold to advance from.**
+**Charlie's assassination reminded us that Evil is real. And it has a strong foothold to advance from.**
 
 ## What Does God Expect of Us, As Technology Builders?
 
@@ -16,46 +16,34 @@ God calls on those who know Him to stand against the schemes of the devil (~ Eph
 - He expects us to use our gifts to help all find him. 
 - (~ Romans 12:6-8, ~  Ephesians 4:11-13).
 
-As Builders of technology, we are blessed with the gift of leverage. We scale effort and can impact millions. 
+As Builders of technology, we are blessed with the gift of leverage. We can scale human effort and impact millions. 
 
-This has always been true of technology, but do you see what is happening NOW?
+This has always been true of technology, but we must recognize what is happening RIGHT NOW in the world: 
 
-- The use of AI increased exponentially the leverage we already had as builders. 
+- The advancement of AI has increased our leverage exponentially. 
 - AI has also lowered the barrier to building, which mulitplies the number of builders. 
 
-God works in mysterious ways. AI's advancement, especially in the year leading up to Charlie Kirk's assassination, may not be a coincidence. 
-
----
+God works in mysterious ways. I believe that AI's advancement in the year leading up to Charlie Kirk's assassination is NOT a coincidence. 
 
 ## What is ClashLight?
 
-ClashLight is a collective of Bible Based AI builders. 
+ClashLight is a collective of Bible Based AI technology builders. 
 
-We equip Bible believing organizations with technology, as an armor of God and a weapon against evil. Our intent is to support their stand against the schemes of the devil in the world. (~ Ephesians 6:11).
+We build AI technology solutions for Bible believing organizations. We aim to equip them with technology as an armor of God and a weapon against evil in the world. 
 
-We use technology to bring the clash of light to darkness. 
+- **AI Software Solutions** - We design and deploy AI technology solutions to strengthen their reach and deepen their impact. 
 
-> *"The light shines in the darkness, and the darkness has not overcome it."*  - John 1:5
+- **Sometimes Simple** - Trivial solutions have massive impact. We seek awareness of any and all problems that AI can solve.  
 
-We are NOT an agency or consultancy. We are a collective: 
+- **Shared Source** - Within the collective, ALL projects can be repurposed for future projects - this accelerates impact.
 
-- **AI Technology Implementation** - We design and deploy technology to strengthen reach, deepen impact, and advance kingdom work. 
-
-- **Shared Source Community** - Within the collective, ALL projects are "shared source" to accelerate our impact over time. 
-
-- **Sometimes Simple** - Trivial solutions can have massive impact. We seek awareness of any and all problems to solve. 
-
-The result is the strenghening and acceleration of organizations sharing God's work in the world. 
-
----
+The result is the strenghening and scaling of organizations that do God's work in the world. 
 
 ## 🛡️ Our Operating Principles 
 - We don't just share God's light — we equip others to clash with light and stand firm against evil.
 - But we do not take revenge. God's role is clear: "it is mine to avenge, I will repay" (Romans 12:19).
 
-We provide armor for the clash against evil, but leave God's work to God. 
-
----
+We provide armor to Bible believing organizations that clash with light against evil. But we leave God's work to God. These principles guide us in who to partner with.  
 
 ## 🧩 How We're Structured
 - **Core Team**  
@@ -65,34 +53,28 @@ We provide armor for the clash against evil, but leave God's work to God.
   A network of technology builders - chosen for both technical skill and Biblical conviction. 
 
 - **Partner Organizations**  
-  Biblical institutions and organizations that seek to be more effective in kingdom work. 
-
----
+  Biblical institutions and organizations that would benefit from our technology solutions. 
 
 ## 💰 Financial Model
-1. We scope projects with partner organizations.
+1. We scope projects / budgets with partner organizations.
 2. Collective members are assigned contractor-style for paid work. 
 3. ClashLight receives a margin to help coordinate projects and drive the mission. 
 
-This creates a **flexible, sustainable talent engine** for kingdom-impacting work. 
+This creates a flexible and sustainable model to impact the world with our technology solutions. 
 
 > We are seeking alternative financial models to maximize our impact for all. Contribute ideas!
-
----
 
 ## 📍 Why GitHub?
 Our model maps well on to the GitHub ecosystem and Open Source mindset: 
 - We will use repos as individual projects, both public and private. 
 - You can contribute to individual projects, or build the community at large. 
-- We'll leverage Issues, PRs, and Prayersource to define our path. 
+- We'll leverage Issues, PRs, and prayer to define our path. 
 
 Github is our gathering place as Builders.
 
----
+## 🚀 How to Get Involved
+- **Builders** - Join the collective by following, then [join the discussion board](https://github.com/orgs/clashlight/discussions/3). 
+- **Organizations** - Bring us your burdens and we'll solve them with technology. Contact us at clashlightHQ (at) gmail (dot) com. 
+- **Supporters** - If this is simply inspiring you and you want to help, share the community or contact us with other ideas. 
 
-## 🚀 Get Involved
-- **Builders** - Join the collective by contributing ideas and your expertise on projects.
-- **Organizations** - Bring us your burdens and let us create solutions with technology.
-- **Supporters** - Support us through sharing the community, or contributing resources.
-
-❓ This community was published on 9/19/2025 and will be updated with more information over time. Contact the organizers thru https://x.com/ClashLightHQ in the meantime and follow repo https://github.com/clashlight/.github to collaborate. 
+❓ Have questions? Ask [here](https://github.com/orgs/clashlight/discussions/3), or contact the organizers on X [@ClashLightHQ](https://x.com/ClashLightHQ) / email (see above). 
