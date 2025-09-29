@@ -77,4 +77,8 @@ Github is our gathering place as Builders.
 - **Organizations** - Bring us your burdens and we'll solve them with technology. Contact us at clashlightHQ (at) gmail (dot) com. 
 - **Supporters** - If this is simply inspiring you and you want to help, share the community or contact us with other ideas. 
 
-❓ Have questions? Ask [here](https://github.com/orgs/clashlight/discussions/3), or contact the organizers on X [@ClashLightHQ](https://x.com/ClashLightHQ) / email (see above). 
+❓ Have questions? Ask [here](https://github.com/orgs/clashlight/discussions/3), or contact the organizers on X [@ClashLightHQ](https://x.com/ClashLightHQ) / email (see above).
+
+---
+
+*Last modified: September 29, 2025* 
